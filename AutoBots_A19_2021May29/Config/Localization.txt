@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+AutomatedMining,blocks,Workstation,,,Automated Mining Bot,,,,,
+AutomatedMiningDesc,blocks,Workstation,,,"The Automated Mining Bot allows you to mine resources using nano mining bots that target specific resources. Adding augers increases mining speed based on their level."
+AutomatedAmmunition,blocks,Workstation,,,Automated Ammunition Bot,,,,,
+AutomatedAmmunitionDesc,blocks,Workstation,,,"The Automated Ammunition Bot allows you to manufacture various kinds of ammunition using a combination of nano mining and manufacture bots. Adding ratches increases manufacture speed based on their level."
